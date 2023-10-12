@@ -1516,7 +1516,7 @@
 // entity 10
 {
 "classname" "weapon_grenadelauncher"
-"origin" "-288 1280 352"
+"origin" "-288 1280 368"
 }
 // entity 11
 {
