@@ -1,2 +1,2 @@
-# MassDestruction
-This is my multiplayer Quake level : Working Title
+# MidnightChapel
+This is my multiplayer Quake level
