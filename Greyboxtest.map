@@ -1518,3 +1518,8 @@
 "classname" "weapon_grenadelauncher"
 "origin" "-288 1280 352"
 }
+// entity 11
+{
+"classname" "weapon_nailgun"
+"origin" "464 256 32"
+}
