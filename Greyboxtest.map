@@ -3289,7 +3289,7 @@
 // entity 3
 {
 "classname" "info_player_deathmatch"
-"origin" "2328 1816 -432"
+"origin" "2328 1816 -416"
 "angle" "60"
 }
 // entity 4
